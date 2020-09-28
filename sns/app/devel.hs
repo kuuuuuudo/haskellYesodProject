@@ -1,5 +1,5 @@
 {-# LANGUAGE PackageImports #-}
-import "webAppProject" Application (develMain)
+import "sns" Application (develMain)
 import Prelude (IO)
 
 main :: IO ()

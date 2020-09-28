@@ -6,7 +6,7 @@
 --
 -- 1. Start up GHCi
 --
--- $ stack ghci webAppProject:lib --no-load --work-dir .stack-work-devel
+-- $ stack ghci sns:lib --no-load --work-dir .stack-work-devel
 --
 -- 2. Load this module
 --

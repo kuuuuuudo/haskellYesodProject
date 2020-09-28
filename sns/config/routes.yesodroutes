@@ -12,5 +12,5 @@
 /comments CommentR POST
 
 /profile ProfileR GET
+/Login LoginuserR GET
 /Adduser AdduserR GET POST
-/Loginuser LoginuserR GET

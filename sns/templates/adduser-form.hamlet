@@ -1,0 +1,5 @@
+#{extra}
+<p>#{fvLabel identView}
+<p>^{fvInput identView}
+<p>#{fvLabel passwordView}
+<p>^{fvInput passwordView}

@@ -5,7 +5,7 @@ database:
   # would like to have environment variable overrides, you could instead use
   # something like:
   #
-  #   database: "_env:SQLITE_DATABASE:webAppProject_test.sqlite3"
-  database: webAppProject_test.sqlite3
+  #   database: "_env:SQLITE_DATABASE:sns_test.sqlite3"
+  database: sns_test.sqlite3
 
 auth-dummy-login: true
